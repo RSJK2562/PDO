@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "name": "Mr Ravi",
+        "age": "21",
+        "gender": "Male",
+        "city": "Jaunpur"
+    },
+    {
+        "id": "2",
+        "name": "swati singh",
+        "age": "20",
+        "gender": "Female",
+        "city": "Lucknow"
+    },
+    {
+        "id": "3",
+        "name": "RS Ravi",
+        "age": "20",
+        "gender": "Male",
+        "city": "Lucknow"
+    },
+    {
+        "id": "4",
+        "name": "Anil",
+        "age": "20",
+        "gender": "Male",
+        "city": "New_Delhi"
+    },
+    {
+        "id": "5",
+        "name": "aman",
+        "age": "22",
+        "gender": "Male",
+        "city": "Varanashi"
+    },
+    {
+        "id": "6",
+        "name": "",
+        "age": "",
+        "gender": "",
+        "city": ""
+    }
+]

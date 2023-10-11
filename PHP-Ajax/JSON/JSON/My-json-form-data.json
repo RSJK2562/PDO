@@ -1,0 +1,77 @@
+[
+    {
+        "name": "RS Ravi",
+        "age": "20",
+        "gender": "Male",
+        "city": "Lucknow"
+    },
+    {
+        "name": "Mr Ravi",
+        "age": "21",
+        "gender": "Male",
+        "city": "Jaunpur"
+    },
+    {
+        "id": null,
+        "name": "ravi shankar gautam",
+        "age": "21",
+        "gender": "Male",
+        "city": "New_Delhi"
+    },
+    {
+        "id": null,
+        "name": "ravi shankar gautam",
+        "age": "21",
+        "gender": "Male",
+        "city": "Varanashi"
+    },
+    {
+        "id": null,
+        "name": "ravi shankar gautam",
+        "age": "21",
+        "gender": "Male",
+        "city": "Varanashi"
+    },
+    {
+        "id": null,
+        "name": "mess",
+        "age": "21",
+        "gender": "Female",
+        "city": "Varanashi"
+    },
+    {
+        "id": null,
+        "name": "mess",
+        "age": "20",
+        "gender": "Female",
+        "city": "Lucknow"
+    },
+    {
+        "id": null,
+        "name": "abc",
+        "age": "17",
+        "gender": "Male",
+        "city": "Lucknow"
+    },
+    {
+        "id": null,
+        "name": "ankish",
+        "age": "23",
+        "gender": "Male",
+        "city": "Jaunpur"
+    },
+    {
+        "id": null,
+        "name": "abc",
+        "age": "21",
+        "gender": "Male",
+        "city": "New_Delhi"
+    },
+    {
+        "id": null,
+        "name": "LAPTOP-03OFGFCJ",
+        "age": "12",
+        "gender": "Male",
+        "city": "Lucknow"
+    }
+]
